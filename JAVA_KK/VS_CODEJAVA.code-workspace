@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.debug.settings.onBuildFailureProceed": true,
+		"workbench.colorCustomizations": {
+			"terminal.foreground": "#14df1e",
+			"terminal.background": "#1a1818"
+		}
+	}
+}
